@@ -1,2 +1,2 @@
-# SBDesign
+# SAIBUNGLOWS
 Society Application Design  
